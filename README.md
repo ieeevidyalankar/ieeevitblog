@@ -1,2 +1,2 @@
-# IEEE-VIT WEBSITE
-### ~Saurabh Fegade
+# IEEE-VIT OFFICIAL BLOG
+### Admin: Saurabh Fegade
