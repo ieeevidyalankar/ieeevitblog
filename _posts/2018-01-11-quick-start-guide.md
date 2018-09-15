@@ -11,8 +11,8 @@ hidden: true
 Voyager blog blah blah blah
 
 ```ruby
-#vitsux
-MSU SUCKS
+#xyz
+ABC
 
-JRP SUCKS
+DEF
 ```
