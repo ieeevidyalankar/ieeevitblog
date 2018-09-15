@@ -59,7 +59,7 @@ post_class: post-template
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1>
 <p class="meta">
-    <span>Posted by {{ page.author }} on {{ page.date }}.</span>
+    <!--<span>Posted by {{ page.author }} on {{ page.date }}.</span>-->
     {% include read-time.html content=content %}
 </p>
 
@@ -130,6 +130,8 @@ post_class: post-template
 
 <!-- Begin Comments
 ================================================== -->
+<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}"></div>
+
 <!--<div class="container">
     <div id="comments" class="row justify-content-center mb-5">
         <div class="col-md-8">              
