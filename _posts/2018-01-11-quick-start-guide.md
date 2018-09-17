@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Voyager"
-author: Gilfoyle
+author: Saurabh Fegade
 categories: [ Voyager, VIT ]
 image: assets/images/12.jpg
 featured: true
