@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IRIS
-author: Jian Yang
+author: Shikha Jha
 categories:
   - IRIS
   - VIT
