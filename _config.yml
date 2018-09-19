@@ -1,13 +1,12 @@
 # Site
 name: "IEEE-VIT"
 description: "Official Blog of IEEE-VIT"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+meta_description: "IEEE Vidyalankar, ieee.vit.edu.in, https://ieee.vit.edu.in"
 logo: 'assets/images/ieeevit-blue-1-5017x1103.png'
 favicon: 'assets/images/logo.png'
 baseurl: /ieeevitblog
 google_analytics: 'UA-46278016-1'
-#disqus: 'demowebsite'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
 
 # Authors
 authors:
@@ -17,14 +16,14 @@ authors:
     gravatar: ed67abe03c65a6f4b99e0099b881df8d
     email: 
     web: 
-    description: "Webmaster 2018. Voyager Coordinator 2018 and Web Team Member Student Branch"
+    description: "General Secretary 2018. Co-ordinator of IRIS 2018."
   Saurabh Fegade:
     name: Saurabh Fegade
     display_name: Saurabh Fegade
     gravatar: 66849570f3b4033d8c35600632f4237a
     email: 
     web: 
-    description: "Webmaster 2018. Voyager Coordinator 2018 and Tech Team Member Student Branch"
+    description: "Webmaster 2018. Voyager Coordinator 2018 and Web Team Member"
 
 # Plugins
 plugins: 
