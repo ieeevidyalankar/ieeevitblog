@@ -33,7 +33,6 @@ See what that was? Yes, that is what having OCD feels like. OCD is a complex men
 
 Obsessive-compulsive disorder is a mental illness that causes repeated unwanted thoughts or sensations (obsessions) or the urge to do something over and over again (compulsions). 
 OCD isn’t about habits or being pessimistic. It is about repeated thoughts and temporary reliefs for that through compulsions. Compulsions can be any ritual or activity repeatedly performed to make such thoughts go away. In this story, Crabbe compulsively scratched the tip of the compass five times. Other compulsions could include, counting till ten or jumping six times every time such a thought occurs.
-
 ![cycle.jpg]({{site.baseurl}}/_posts/cycle.jpg)
 
 Do you know what such thoughts are called? Intrusive thoughts, Intrusive thoughts are unwanted thoughts or images that you find distressing and/or disturbing.  These unwanted thoughts are known as obsessions. Intrusive thoughts can also result in compulsions, the things you do to help you cope with the unwanted thoughts. 
@@ -41,7 +40,6 @@ Do you know what such thoughts are called? Intrusive thoughts, Intrusive thought
 Studies have shown that around 80-99% of people experience unnecessary thoughts, but what sets them apart from people who have OCD is that their thoughts are less frequent, are of less intensity and their minds can dispose such thoughts quite easily. However, for people with OCD, their life starts to revolve around controlling such thoughts which just keep aggravating.
 
  Everyone has habits or thoughts that repeat sometimes. People with OCD have thoughts or actions that take up at least an hour a day, are beyond their control, aren’t enjoyable and interfere with work, their social life, or another part of life
- 
 ![abc.jpeg]({{site.baseurl}}/_posts/abc.jpeg)
 
  
