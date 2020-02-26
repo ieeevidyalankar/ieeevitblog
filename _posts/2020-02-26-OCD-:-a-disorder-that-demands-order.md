@@ -42,7 +42,8 @@ Studies have shown that around 80-99% of people experience unnecessary thoughts,
  Everyone has habits or thoughts that repeat sometimes. People with OCD have thoughts or actions that take up at least an hour a day, are beyond their control, aren’t enjoyable and interfere with work, their social life, or another part of life
 ![abc.jpeg]({{site.baseurl}}/_posts/abc.jpeg)
 
- 
+ ![events_schedule.jpg]({{site.baseurl}}/assets/images/events_schedule.jpg)
+
 There are broadly **4 types** of OCD: 
 
 1. Contamination Obsessions: These include people who have a fear or extreme disgust regarding blood, dirt, sticky substances, touching animals, saliva, etc.
