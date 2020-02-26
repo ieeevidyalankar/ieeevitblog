@@ -4,7 +4,7 @@ layout: post
 author: Niranjana IEEE
 categories:
   - VIT
-image: assets/images/ocd.jpg
+image: assets/images/ocd.jpeg
 featured: true
 ---
 “Oh man, please clean the room. I have **OCD!**"
