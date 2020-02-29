@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-author: Nishant Jadhav
+author: Niranjana B.
 categories:
   - VIT
 image: assets/images/ocd.jpeg
