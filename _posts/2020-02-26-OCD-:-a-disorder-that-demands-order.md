@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-author: Niranjana IEEE
+author: Nishant Jadhav
 categories:
   - VIT
 image: assets/images/ocd.jpeg
