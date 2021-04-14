@@ -35,9 +35,9 @@ Trust me it was the best day of my life. I literally had tears of joy and satisf
 
 Being an IRIS Coordinator gave me the opportunity to interact with such an inspiring and great personality like Dr. Chidambaram Sir. I will never forget this day and experience. When the chairperson of the committee was delivering the vote of thanks, I felt like saying on the microphone, _" Sir, please don’t stop. We want to hear from you. We want to hear those invaluable words of wisdom. Sir, please don’t stop. Keep talking, we will continue to listen. Our generation needs this kind of knowledge and wisdom."_
 
-##"Always work on important problems, important to science or important to society."
+## "Always work on important problems, important to science or important to society."
 
-##"Develop your interest, you will find a niche."
+## "Develop your interest, you will find a niche."
 
 These two quotes from his talk are truly something that I gave a thought for some time and I will remember for a lifetime and try to inculcate it in my life.
 
