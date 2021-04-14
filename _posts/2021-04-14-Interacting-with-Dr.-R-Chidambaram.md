@@ -10,8 +10,6 @@ featured: true
 ---
 > _Science knows no country because knowledge belongs to humanity and it is the torch which illuminates the world — Louis Pasteur._
 
-![Dr. Rajagopala Chidambaram]({{site.baseurl}}/assets/images/rc.jpg)
-
 It’s not always you get to listen to someone who is of a similar stature and who has worked with Dr. APJ Abdul Kalam. And for me, it felt like one of my dreams had come true. I always wanted to meet Dr. Kalam from the time I started reading his books but unfortunately was never able to. But because of **IRIS**, I got to listen to someone who was as brilliant as Dr. Kalam. He was none other than Dr. Rajagopala Chidambaram Sir!! Our guest speaker for IRIS 2021!! We consider ourselves extremely lucky and fortunate to have him at IRIS and listen to him.
 
 First thing I would like to say about Sir is that such a big personality but no hint of ego, no arrogance just an epitome of pure knowledge, experience, wisdom and a strong sense of nationalism.
