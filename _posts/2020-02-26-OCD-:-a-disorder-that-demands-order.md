@@ -5,7 +5,7 @@ author: Niranjana B.
 categories:
   - VIT
 image: assets/images/ocd.jpeg
-featured: true
+featured: false
 ---
 “Oh man, please clean the room. I have **OCD!**"
 “My boss wants me to do the task perfectly. Even if I use one unnecessary tab space in my document, he yells at me. He must be having OCD.”
