@@ -35,11 +35,11 @@ After a few weeks, the mid-semester exams began, and things were going reasonabl
 
 During this time, some sporting events took place, and many of our classmates performed remarkably. I, on the other hand, was still in the process of breaking the ice and finding my footing in this new environment. 
 
-![](Aspose.Words.f3b310a3-abdc-4a1e-aff4-41702a10ea26.001.jpeg)
+![image.jpg]({{site.baseurl}}/assets/images/Aspose.Words.f3b310a3-abdc-4a1e-aff4-41702a10ea26.001.jpeg)
 
 Then came the Fresher’s Week, and it started with a bang. 'ILLUSION' was the theme, and I was genuinely looking forward to it. I had never attended a party before, let alone a college party, so it felt like quite a big deal. These events play a crucial role in making friends and establishing connections. I was eager to blend in, even though it was a bit challenging. Nevertheless, I realized that it wasn't the only opportunity to do so. The Fresher’s Party turned out to be a memorable event, with many showcasing their talents and the opportunity to meet new people. 
 
-![](Aspose.Words.f3b310a3-abdc-4a1e-aff4-41702a10ea26.002.png)
+![image2.jpg]({{site.baseurl}}/assets/images/Aspose.Words.f3b310a3-abdc-4a1e-aff4-41702a10ea26.002.png)
 
 Regrettably, I didn't participate in any of the events during Fresher’s Week. Looking back, I can't help but feel a bit disappointed. Witnessing people forming extensive networks of friends, classmates, and relationships was indeed an eye-opening experience. It made me realize the value of seizing opportunities to connect and engage in the college community." 
 

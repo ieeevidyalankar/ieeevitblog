@@ -373,6 +373,7 @@ License: https://www.wowthemes.net/freebies-license/
     color: rgb(255 255 255);
     background: #70aedb;
     padding: 0.5rem;
+    z-index: 1984;
 }
  .graybg {
      background-color:#fafafa;
@@ -680,3 +681,7 @@ color: #4a9a00;
 color: #4a9a00;
 }
 
+.footerlink {
+    color: #00629B !important;
+    font-size: 1rem !important;
+}
