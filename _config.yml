@@ -2,7 +2,7 @@
 name: "IEEE-VIT"
 description: "Official Blog of IEEE-VIT"
 meta_description: "IEEE Vidyalankar, ieee.vit.edu.in, https://ieee.vit.edu.in"
-logo: 'assets/images/ieeevit-blue-1-5017x1103.png'
+logo: assets/images/newlogo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /ieeevitblog
 google_analytics: 'UA-128958351-1'
